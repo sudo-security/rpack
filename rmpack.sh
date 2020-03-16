@@ -1,3 +1,4 @@
+clear
 echo '
 
 [+]-----------------------------------------------------------------[+]
@@ -17,6 +18,7 @@ echo '
 [-] www.sudo-security.github.io
 
 '
+sleep 2
 rm -rf aslr
 rm -rf checkend
 rm -rf pattern_fuzzer
@@ -27,3 +29,5 @@ rm -rf rpack-uninstall
 clear
 
 echo '[!] Basariyla Kaldirildi..!'
+sleep 2
+exit
