@@ -26,6 +26,9 @@ rm -rf pattern_offset
 rm -rf peda
 rm -rf suid_dump
 rm -rf rpack-uninstall
+rm -rf arayici.sh
+rm -rf adress
+rm -rf clibfind
 clear
 
 echo '[!] Basariyla Kaldirildi..!'
